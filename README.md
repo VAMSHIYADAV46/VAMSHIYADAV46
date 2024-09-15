@@ -4,7 +4,7 @@
   Skills:
  - HTML: Crafting the structure of the web.
  - CSS: Styling with creativity and precision.
- - avaScript: Adding interactivity and dynamic features.
+ - JavaScript: Adding interactivity and dynamic features.
  - GitHub: Version control and collaboration.
 
 # 🚀 What I’m Working On
