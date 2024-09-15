@@ -1,7 +1,7 @@
 # 🌟 About Me
    Currently: Pursuing a B.Tech degree, with a focus on web technologies.
 
-- Skills:
+  Skills:
  - HTML: Crafting the structure of the web.
  - CSS: Styling with creativity and precision.
  - avaScript: Adding interactivity and dynamic features.
