@@ -1,22 +1,28 @@
+Here’s the updated README with **Node.js** and **Express.js** swapped:
+
+---
+
 # 🌟 About Me
-   Currently: Pursuing a B.Tech degree, with a focus on web technologies.
 
-  Skills:
- - HTML: Crafting the structure of the web.
- - CSS: Styling with creativity and precision.
- - JavaScript: Adding interactivity and dynamic features.
- - GitHub: Version control and collaboration.
+**Currently**: Pursuing a B.Tech degree, focusing on web technologies and development.
 
-# 🚀 What I’m Working On
-- I'm currently working on various projects that range from simple web pages to more complex applications. I enjoy exploring new tools and frameworks and am always eager to learn and grow.
+### Skills
+- **HTML**: Crafting the structure of modern web pages.
+- **CSS**: Creating responsive and visually appealing designs.
+- **JavaScript**: Bringing dynamic interactivity to websites and applications.
+- **Node.js**: Developing scalable server-side applications.
+- **Express.js**: Building backend services and APIs.
+- **SQL**: Managing and querying relational databases.
+- **REST APIs**: Designing and working with RESTful services.
+- **Git & GitHub**: Version control and effective project collaboration.
 
-# 💬 Connect with Me
-- Feel free to reach out if you’d like to collaborate on a project, need help with web development, or just want to chat about technology.
+### 🚀 What I’m Working On
+- Currently developing projects from simple web pages to full-stack applications.
+- Continuously learning new tools, frameworks, and best practices in web development.
 
-- [LinkedIn](https://www.linkedin.com/in/mekalavamshiyadav/) | [Twitter](https://x.com/Mekalavamshi46) | [Instagram](https://www.instagram.com/_vamshi.46/)
-- Thank you for stopping by, and I look forward to connecting with you!
+### 💬 Let’s Connect
+- I’m open to collaborations on web development projects or discussions about technology!
 
-<!---
-VAMSHIYADAV46/VAMSHIYADAV46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- **[LinkedIn](https://www.linkedin.com/in/mekalavamshiyadav/)** | **[Twitter](https://x.com/Mekalavamshi46)** | **[Instagram](https://www.instagram.com/_vamshi.46/)**
+
+Thanks for stopping by, and I look forward to connecting with you!
