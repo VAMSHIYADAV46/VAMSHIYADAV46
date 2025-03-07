@@ -1,6 +1,3 @@
-
-
-
 # 🌟 About Me
 
 **Currently**: Pursuing a B.Tech degree, focusing on web technologies and development.
@@ -11,6 +8,7 @@
 - **JavaScript**: Bringing dynamic interactivity to websites and applications.
 - **Node.js**: Developing scalable server-side applications.
 - **Express.js**: Building backend services and APIs.
+- **MongoDB**: Handling NoSQL databases for scalable and flexible data storage.
 - **SQL**: Managing and querying relational databases.
 - **REST APIs**: Designing and working with RESTful services.
 - **Git & GitHub**: Version control and effective project collaboration.
