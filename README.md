@@ -21,7 +21,7 @@
 - 🌱 **Always exploring new technologies**  
 - 🚀 **Turning ideas into scalable projects**  
 - 📫 How to reach me: [mekalavamshiyadav46@gmail.com](mailto:mekalavamshiyadav46@gmail.com)
-- 💻 Some of my projects: **[Wanderlust](https://github.com/VAMSHIYADAV46/WanderLust), [Share Plate](https://github.com/VAMSHIYADAV46/SharePlate), [LinkUp](https://github.com/VAMSHIYADAV46/LinkUp)**  
+- 💻 Some of my projects: **[Wanderlust](https://github.com/VAMSHIYADAV46/WanderLust), [Share Plate](https://github.com/VAMSHIYADAV46/SHARE-PLATE), [LinkUp](https://github.com/VAMSHIYADAV46/LinkUp)**  
 
 ---
 
