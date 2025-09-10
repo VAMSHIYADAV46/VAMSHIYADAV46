@@ -1,4 +1,4 @@
-![Vamshi](https://github.com/user-attachments/assets/your-image-hash)
+![Vamshi](./assests/LinkedIn%20Banner.png)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B500&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
