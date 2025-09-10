@@ -59,7 +59,6 @@
 </div>
 
 ---
-
 ## 🌐 Connect with Me  
 
 <p align="center" style="display: flex; justify-content: space-evenly;">
@@ -67,11 +66,11 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50">
   </a>
   <a href="https://github.com/VAMSHIYADAV46">
-    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://user-images.githubusercontent.com/74038190/235294020-9347b59f-0669-40c8-9c44-4e6b05d7a3f6.gif" width="50">
   </a>
-<a href="https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+  <a href="https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294021-98c5e9a7-7f6b-49a7-b9d8-b4c1527d9a61.gif" width="50">
+  </a>
   <a href="https://www.instagram.com/vammshi_46/">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
   </a>
