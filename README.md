@@ -6,27 +6,21 @@
 
 <div align="center">
 
-[![Discord Status](https://raw.githubusercontent.com/VAMSHIYADAV46/VAMSHIYADAV46/main/discord-status.svg)](https://discordapp.com/users/vamshi_46_53475)
-[![Spotify](https://raw.githubusercontent.com/VAMSHIYADAV46/VAMSHIYADAV46/main/spotify-status.svg)](https://open.spotify.com/user/cr01ekmdpzybwip5ej5glk655?si=Nh4HETh0Q8KhVgi0F-kiFg )
-[![Local Time](https://raw.githubusercontent.com/VAMSHIYADAV46/VAMSHIYADAV46/main/local-time.svg)](https://www.timeanddate.com/time/zones/ist)
-[![wakatime](https://wakatime.com/badge/user/your-waka-id.svg?style=for-the-badge)](https://wakatime.com/@your-waka-id)
+
+
 ![](https://komarev.com/ghpvc/?username=VAMSHIYADAV46&style=for-the-badge)
-[![Currently Learning](https://img.shields.io/badge/🧑‍💻%20Currently%20Learning-Passport.js-007ACC?style=for-the-badge&labelColor=333333)](https://www.passportjs.org/)
+[![Currently Learning](https://img.shields.io/badge/🧑‍💻%20Currently%20Learning-LLM%20APIs-007ACC?style=for-the-badge&labelColor=333333)](#)
 [![Tech Stack](https://img.shields.io/badge/🌐%20Tech%20Stack-MERN%20Stack-00DC82?style=for-the-badge&labelColor=333333)](https://www.geeksforgeeks.org/mern/understand-mern-stack/)
 
 </div>
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=VAMSHIYADAV46&label=Profile%20views&color=0e75b6&style=flat" alt="VAMSHIYADAV46" />
-</p>
-
 - 🌐 **Open Source Enthusiast**  
 - 🖥️ **Full Stack Developer: React | Node.js | Express | MongoDB**  
 - 🌱 **Always exploring new technologies**  
 - 🚀 **Turning ideas into scalable projects**  
-- 📫 How to reach me: **mekalavamshiyadav@gmail.com**  
+- 📫 How to reach me: **mekalavamshiyadav46@gmail.com**  
 - 💻 Some of my projects: **[Wanderlust](https://github.com/VAMSHIYADAV46/WanderLust), [Share Plate](https://github.com/VAMSHIYADAV46/SharePlate), [LinkUp](https://github.com/VAMSHIYADAV46/LinkUp)**  
 
 ---
@@ -69,7 +63,7 @@
 ## 🌐 Connect with Me  
 
 <p align="center" style="display: flex; justify-content: space-evenly;">
-  <a href="https://discordapp.com/users/your-discord-id">
+  <a href="https://discordapp.com/users/vamshi_46_53475">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50">
   </a>
   <a href="https://github.com/VAMSHIYADAV46">
