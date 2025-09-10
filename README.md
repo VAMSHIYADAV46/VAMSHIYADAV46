@@ -20,7 +20,7 @@
 - 🖥️ **Full Stack Developer: React | Node.js | Express | MongoDB**  
 - 🌱 **Always exploring new technologies**  
 - 🚀 **Turning ideas into scalable projects**  
-- 📫 How to reach me: [mekalavamshiyadav46@gmail.com](mailto:mekalavamshiyadav46@gmail.com)
+📫 How to reach me: [mekalavamshiyadav46@gmail.com](https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com)
 - 💻 Some of my projects: **[Wanderlust](https://github.com/VAMSHIYADAV46/WanderLust), [Share Plate](https://github.com/VAMSHIYADAV46/SHARE-PLATE), [LinkUp](https://github.com/VAMSHIYADAV46/LinkUp)**  
 
 ---
@@ -69,9 +69,9 @@
   <a href="https://github.com/VAMSHIYADAV46">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
-  <a href="mailto:mekalavamshiyadav46@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
   <a href="https://www.instagram.com/vammshi_46/">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50">
   </a>
