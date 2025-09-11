@@ -20,7 +20,7 @@
 - 🖥️ **Full Stack Developer: React | Node.js | Express | MongoDB**  
 - 🌱 **Always exploring new technologies**  
 - 🚀 **Turning ideas into scalable projects**  
-📫 How to reach me: [mekalavamshiyadav46@gmail.com](https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com)
+- 📫 How to reach me: [mekalavamshiyadav46@gmail.com](https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com)
 - 💻 Some of my projects: **[Wanderlust](https://github.com/VAMSHIYADAV46/WanderLust), [Share Plate](https://github.com/VAMSHIYADAV46/SHARE-PLATE), [LinkUp](https://github.com/VAMSHIYADAV46/LinkUp)**  
 
 ---
