@@ -39,7 +39,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=VAMSHIYADAV46&show_icons=true&locale=en&theme=radical&hide_border=true" alt="VAMSHIYADAV46" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=VAMSHIYADAV46&theme=radical&hide_border=true" alt="VAMSHIYADAV46" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=VAMSHIYADAV46" alt="Vamshi streak" />
     </td>
   </tr>
 </table>
