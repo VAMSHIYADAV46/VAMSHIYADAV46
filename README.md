@@ -21,7 +21,7 @@
 - 🌱 **Always exploring new technologies**  
 - 🚀 **Turning ideas into scalable projects**  
 - 📫 How to reach me: [mekalavamshiyadav46@gmail.com](https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com)
-- 💻 Some of my projects: **[CognitAI](https://github.com/VAMSHIYADAV46/CognitAI), [JoinIn](https://github.com/VAMSHIYADAV46/JoinIn) , [Wanderlust](https://github.com/VAMSHIYADAV46/WanderLust)**
+- 💻 Some of my projects: **[CognitAI](https://github.com/VAMSHIYADAV46/Cognit-AI), [JoinIn](https://github.com/VAMSHIYADAV46/JoinIn) , [Wanderlust](https://github.com/VAMSHIYADAV46/WanderLust)**
   
 
 ---
