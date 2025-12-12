@@ -32,9 +32,11 @@
 
 ---
 
+
+
 <h3 align="left">📊 GitHub Stats</h3>
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=VAMSHIYADAV46&show_icons=true&locale=en&theme=radical&hide_border=true" alt="VAMSHIYADAV46" />
@@ -47,7 +49,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VAMSHIYADAV46&layout=compact&theme=radical&hide_border=true&hide=typescript" />
-</p>
+</p> -->
+
+<div align="center">
+
+![GitHub Streak](https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=VAMSHIYADAV46&theme=%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23f9ffa8%22%2C%22borderColor%22%3A%22%2330363d%22%2C%22waterColor%22%3A%22%23ffee80%22%2C%22streakColor%22%3A%22%23ff61d5%22%7D)
+
+</div>
 
 
 ---
