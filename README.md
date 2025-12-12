@@ -75,5 +75,5 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-  <h4>Open to collaborations and chat! Thanks for visiting ❤️</h4>
+  <h4>Always up for learning and building together 🚀</h4>
 </div>
