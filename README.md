@@ -70,3 +70,10 @@
 
 ---
 ## 🌐 Connect with Me <p align="center" style="display: flex; justify-content: space-evenly;"> <a href="https://discordapp.com/users/vamshi_46_53475"> <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="50"> </a> <a href="https://github.com/VAMSHIYADAV46"> <img src="https://skillicons.dev/icons?i=github"/> </a> <a href="https://mail.google.com/mail/?view=cm&to=mekalavamshiyadav46@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> <a href="https://www.instagram.com/vammshi_46/"> <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="50"> </a> <a href="https://www.linkedin.com/in/mekalavamshiyadav"> <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"> </a> </p>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+  <h4>Open to collaborations and chat! Thanks for visiting ❤️</h4>
+</div>
