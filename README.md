@@ -28,7 +28,8 @@
 
 <h3 align="left">🎧 Spotify Playing</h3>
 
-[![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy) 
+[![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)   
+
 
 ---
 
