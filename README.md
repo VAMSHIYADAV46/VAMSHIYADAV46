@@ -30,10 +30,13 @@
 
 [![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy) -->
 
+<h3 align="left">🎧 Spotify Playing</h3>
 
-<h3 align="left">🎧 My Playlist</h3>
+[![Spotify](https://spotifygit.vercel.app/api/spotify)](https://open.spotify.com/user/31tpqnoarhpaxxz7226elu4w4muy)
 
-[![Spotify](https://img.shields.io/badge/Spotify-My%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/40kZpxBvZMsdIZZI0GvIWk)
+<h3 align="left">🎶 My Playlist</h3>
+
+[![Spotify](https://img.shields.io/badge/Spotify-Open%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/40kZpxBvZMsdIZZI0GvIWk)
 ---
 
 
