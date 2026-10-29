@@ -9,7 +9,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=VAMSHIYADAV46&style=for-the-badge)
-[![Currently Learning](https://img.shields.io/badge/🧑‍💻%20Currently%20Learning-Web%20Crawling%20%26%20Scraping-007ACC?style=for-the-badge&labelColor=333333)](https://github.com/VAMSHIYADAV46/CrawlX)
+[![Currently Learning](https://img.shields.io/badge/🧑‍💻%20Currently%20Learning-CI%2FCD-007ACC?style=for-the-badge&labelColor=333333)](https://github.com/VAMSHIYADAV46)
 [![Tech Stack](https://img.shields.io/badge/🌐%20Tech%20Stack-MERN%20Stack-00DC82?style=for-the-badge&labelColor=333333)](https://www.geeksforgeeks.org/mern/understand-mern-stack/)
 
 </div>
